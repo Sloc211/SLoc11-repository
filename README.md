@@ -5,7 +5,7 @@ I Like Dancing
 
 I like Beer
 
-I like Diving
+I like Diving <!-- guess lie -->
 
 
 ## Greetings fellow hooman!
