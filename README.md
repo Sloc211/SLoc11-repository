@@ -1,20 +1,20 @@
 # SLoc11 Pratice1
 
 ## 2 Truths 1 Lie
-<-- I Like Dancing -->
+I Like Dancing 
 
-<--I like Beer-->
+I like Beer
 
-<--I like Diving-->
+I like Diving
 
 ## Next True or False
-<-- Test 1 -->
+Test 1
 T
 
-<-- Test 2 -->
+Test 2
 F
 
-<-- Test 3 -->
+Test 3
 T
 
 ## Greetings fellow hooman!
