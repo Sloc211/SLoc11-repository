@@ -7,6 +7,6 @@
 
 <--I like Diving-->
 
-## Greeting fellow hooman!
+## Greetings fellow hooman!
 
 I think your lie is Dancing. MAK
