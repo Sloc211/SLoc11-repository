@@ -19,3 +19,6 @@ test 1
 
 ## Branch 2
 test 2
+
+## Branch 3
+test 3
